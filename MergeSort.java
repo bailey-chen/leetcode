@@ -1,4 +1,7 @@
+import java.util.Arrays;
+
 public class MergeSortAlgorithm {
+    // Lessons: IN PLACE sorting saves space/memory
     /**
      * Returns int array with sorted elements in ARR IN PLACE (save space/memory) (for getting back into algorithms!)
      * @return
