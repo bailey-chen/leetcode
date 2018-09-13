@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79291f73-c908-4f60-a27a-c5bcbeb15dbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MergeTwoSortedLists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generateParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextPermutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseInteger.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseInteger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find-first-and-last-position-of-element-in-sorted-array.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,13 +21,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="java" value="10" />
           <entry key="py" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="10" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -48,15 +45,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,13 +84,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generateParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="732">
-              <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+            <state relative-caret-position="507">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/find-first-and-last-position-of-element-in-sorted-array.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -169,8 +162,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="320" />
-    <option name="y" value="39" />
+    <option name="x" value="378" />
+    <option name="y" value="119" />
     <option name="width" value="1334" />
     <option name="height" value="931" />
   </component>
@@ -210,15 +203,15 @@
       <option name="presentableId" value="Default" />
       <updated>1536214822449</updated>
       <workItem from="1536214823874" duration="6928000" />
-      <workItem from="1536708219568" duration="472000" />
+      <workItem from="1536708219568" duration="704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7400000" />
+    <option name="totallyTimeSpent" value="7632000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="320" y="39" width="1334" height="931" extended-state="0" />
+    <frame x="378" y="119" width="1334" height="931" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
@@ -325,10 +318,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/generateParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="732">
-          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+        <state relative-caret-position="507">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find-first-and-last-position-of-element-in-sorted-array.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
