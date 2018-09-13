@@ -1,13 +1,6 @@
 class Solution(object):
 
     def reverse(self, x):
-        """
-        :type x: int
-        :rtype: int
-        """
-        # put digits (as strings) into list reverse order
-        # insert each digit at beginning of list
-        # convert list into integer using ''.join(lst):
         neg_bound = (-1) * 2**31
         pos_bound = 2**31 - 1
 
